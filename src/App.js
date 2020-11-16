@@ -8,7 +8,6 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/home" component={Home}></Route>
-          {/* <Route component={notFound}></Route> */}
         </Switch>
       </Router>
     </div>
