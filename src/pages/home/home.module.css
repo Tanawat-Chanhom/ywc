@@ -1,0 +1,26 @@
+.container {
+  /* border: 1px solid gray; */
+}
+
+.navigationWrapper {
+  width: 100%;
+  height: 46px;
+  background-color: rgb(39, 57, 124);
+  padding: auto 0px;
+}
+.searchResult {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2rem !important;
+}
+
+.content {
+  padding: 1rem 15px !important;
+  max-width: 1600px;
+  margin: 0px auto;
+}
+
+.flexItem {
+  display: flex !important;
+  width: 100%;
+}

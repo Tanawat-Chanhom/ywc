@@ -1,0 +1,25 @@
+.container {
+  padding: 10px;
+  border: 1px solid #c4c9cf;
+  width: 22rem;
+}
+
+.filterTitle {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.radio {
+  width: 100%;
+}
+
+.select {
+  margin-top: 5px !important;
+  width: 100%;
+}
+
+@media screen and (max-width: 776px) {
+  .container {
+    display: none;
+  }
+}

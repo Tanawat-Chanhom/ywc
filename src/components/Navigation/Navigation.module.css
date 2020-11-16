@@ -1,0 +1,33 @@
+.container {
+  max-width: 1280px;
+  height: 100%;
+  margin: 0px auto;
+  padding: 0px 2rem !important;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.textContainer {
+  height: fit-content;
+  width: fit-content;
+}
+
+.textContainer a {
+  color: white;
+  text-decoration: underline;
+}
+.textContainer span {
+  margin: 0px 10px;
+  color: white;
+}
+.textContainer p {
+  margin: 0px 0px;
+  color: white;
+}
+
+@media screen and (max-width: 776px) {
+  .container {
+    padding: 0px 1rem !important;
+  }
+}

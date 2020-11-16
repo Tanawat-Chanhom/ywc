@@ -1,8 +1,14 @@
 * {
   margin: 0;
-  font-family: "Nunito", sans-serif;
+  padding: 0;
 }
 
 .App {
   position: relative;
+}
+
+body {
+  font-family: IBM Plex Sans Thai, sans-serif;
+  font-weight: 400;
+  line-height: 1.65;
 }
