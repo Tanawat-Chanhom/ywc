@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/ywc/static/css/main.005e5c1b.chunk.css",
-    "main.js": "/ywc/static/js/main.81d743d5.chunk.js",
-    "main.js.map": "/ywc/static/js/main.81d743d5.chunk.js.map",
-    "runtime-main.js": "/ywc/static/js/runtime-main.202a31be.js",
-    "runtime-main.js.map": "/ywc/static/js/runtime-main.202a31be.js.map",
+    "main.css": "/ywc/static/css/main.b1f7fd00.chunk.css",
+    "main.js": "/ywc/static/js/main.2d946f29.chunk.js",
+    "main.js.map": "/ywc/static/js/main.2d946f29.chunk.js.map",
+    "runtime-main.js": "/ywc/static/js/runtime-main.5e772d9c.js",
+    "runtime-main.js.map": "/ywc/static/js/runtime-main.5e772d9c.js.map",
     "static/css/2.3cbd3cae.chunk.css": "/ywc/static/css/2.3cbd3cae.chunk.css",
-    "static/js/2.7a10a124.chunk.js": "/ywc/static/js/2.7a10a124.chunk.js",
-    "static/js/2.7a10a124.chunk.js.map": "/ywc/static/js/2.7a10a124.chunk.js.map",
-    "static/js/3.df2f7665.chunk.js": "/ywc/static/js/3.df2f7665.chunk.js",
-    "static/js/3.df2f7665.chunk.js.map": "/ywc/static/js/3.df2f7665.chunk.js.map",
+    "static/js/2.4cfcfa73.chunk.js": "/ywc/static/js/2.4cfcfa73.chunk.js",
+    "static/js/2.4cfcfa73.chunk.js.map": "/ywc/static/js/2.4cfcfa73.chunk.js.map",
+    "static/js/3.38cee30c.chunk.js": "/ywc/static/js/3.38cee30c.chunk.js",
+    "static/js/3.38cee30c.chunk.js.map": "/ywc/static/js/3.38cee30c.chunk.js.map",
     "index.html": "/ywc/index.html",
     "static/css/2.3cbd3cae.chunk.css.map": "/ywc/static/css/2.3cbd3cae.chunk.css.map",
-    "static/css/main.005e5c1b.chunk.css.map": "/ywc/static/css/main.005e5c1b.chunk.css.map",
-    "static/js/2.7a10a124.chunk.js.LICENSE.txt": "/ywc/static/js/2.7a10a124.chunk.js.LICENSE.txt",
+    "static/css/main.b1f7fd00.chunk.css.map": "/ywc/static/css/main.b1f7fd00.chunk.css.map",
+    "static/js/2.4cfcfa73.chunk.js.LICENSE.txt": "/ywc/static/js/2.4cfcfa73.chunk.js.LICENSE.txt",
     "static/media/logo-KLK-2.9dbd6ec5.png": "/ywc/static/media/logo-KLK-2.9dbd6ec5.png",
-    "static/media/search.d6a8245f.svg": "/ywc/static/media/search.d6a8245f.svg"
+    "static/media/App.css": "/ywc/static/media/result-bg.ac869927.png",
+    "static/media/search.d6a8245f.svg": "/ywc/static/media/search.d6a8245f.svg",
+    "static/media/thailand-baht-gray.02fc3775.svg": "/ywc/static/media/thailand-baht-gray.02fc3775.svg",
+    "static/media/thailand-baht.f5b4e2ea.svg": "/ywc/static/media/thailand-baht.f5b4e2ea.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.202a31be.js",
+    "static/js/runtime-main.5e772d9c.js",
     "static/css/2.3cbd3cae.chunk.css",
-    "static/js/2.7a10a124.chunk.js",
-    "static/css/main.005e5c1b.chunk.css",
-    "static/js/main.81d743d5.chunk.js"
+    "static/js/2.4cfcfa73.chunk.js",
+    "static/css/main.b1f7fd00.chunk.css",
+    "static/js/main.2d946f29.chunk.js"
   ]
 }
