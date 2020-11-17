@@ -52,13 +52,15 @@ export default class home extends Component {
     return (
       <div className={styles.container}>
         <header>
-          <Navbar
-            provinces={this.state.provinces}
-            proSelect={this.state.proSelect}
-            setLocation={(e) => {
-              this.setLocation(e);
-            }}
-          />
+          <div className={styles.navbarContainer}>
+            <Navbar
+              provinces={this.state.provinces}
+              proSelect={this.state.proSelect}
+              setLocation={(e) => {
+                this.setLocation(e);
+              }}
+            />
+          </div>
           <div className={styles.navigationWrapper}>
             <Navigation />
           </div>

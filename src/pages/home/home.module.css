@@ -2,6 +2,11 @@
   /* border: 1px solid gray; */
 }
 
+.navbarContainer {
+  width: 100%;
+  background-color: white;
+}
+
 .navigationWrapper {
   width: 100%;
   height: 46px;
