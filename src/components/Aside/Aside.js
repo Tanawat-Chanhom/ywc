@@ -56,19 +56,19 @@ export default class Aside extends Component {
               this.props.setLocation(e);
             }}
           >
-            <option value="พื้นที่ใกล้ฉัน">
+            <Select.Option value="พื้นที่ใกล้ฉัน">
               <EnvironmentOutlined />
               พื้นที่ใกล้ฉัน
-            </option>
-            <option value="สถานที่ทั้งหมด">
+            </Select.Option>
+            <Select.Option value="สถานที่ทั้งหมด">
               <EnvironmentOutlined />
               สถานที่ทั้งหมด
-            </option>
+            </Select.Option>
             {this.props.provinces.map((data, index) => {
               return (
-                <option value={data} key={index}>
+                <Select.Option value={data} key={index}>
                   {data}
-                </option>
+                </Select.Option>
               );
             })}
           </Select>
@@ -78,9 +78,9 @@ export default class Aside extends Component {
           <Select className={styles.select} placeholder={"กรุณาเลือก"}>
             {this.props.priceRange.map((data, index) => {
               return (
-                <option value={data} key={index}>
+                <Select.Option value={data} key={index}>
                   {data}
-                </option>
+                </Select.Option>
               );
             })}
           </Select>

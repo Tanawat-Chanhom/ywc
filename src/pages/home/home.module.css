@@ -1,6 +1,6 @@
-.container {
-  /* border: 1px solid gray; */
-}
+/* .container {
+  border: 1px solid gray;
+} */
 
 .navbarContainer {
   width: 100%;
@@ -27,5 +27,9 @@
 
 .flexItem {
   display: flex !important;
+  width: 100%;
+}
+
+.articleContainer {
   width: 100%;
 }

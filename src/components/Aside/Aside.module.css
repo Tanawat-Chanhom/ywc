@@ -3,6 +3,8 @@
   border: 1px solid #c4c9cf;
   width: 22rem;
   background-color: white;
+  margin-right: 1.5rem !important;
+  height: fit-content;
 }
 
 .filterTitle {

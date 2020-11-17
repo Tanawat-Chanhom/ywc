@@ -6,6 +6,7 @@ import styles from "./home.module.css";
 import Navbar from "../../components/Navbar/Navbar";
 import Navigation from "../../components/Navigation/Navigation";
 import Aside from "../../components/Aside/Aside";
+import Card from "../../components/Card/Card";
 
 export default class home extends Component {
   constructor() {
@@ -48,7 +49,6 @@ export default class home extends Component {
   };
 
   render() {
-    console.log(this.state.categories);
     return (
       <div className={styles.container}>
         <header>
@@ -84,7 +84,11 @@ export default class home extends Component {
                 });
               }}
             />
-            <article></article>
+            <article className={styles.articleContainer}>
+              {this.state.merchants.map((data, index) => {
+                return <Card data={data} key={index} />;
+              })}
+            </article>
           </section>
         </div>
       </div>
