@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ywc/static/css/main.b1f7fd00.chunk.css",
-    "main.js": "/ywc/static/js/main.2d946f29.chunk.js",
-    "main.js.map": "/ywc/static/js/main.2d946f29.chunk.js.map",
+    "main.css": "/ywc/static/css/main.06460786.chunk.css",
+    "main.js": "/ywc/static/js/main.49a89bbe.chunk.js",
+    "main.js.map": "/ywc/static/js/main.49a89bbe.chunk.js.map",
     "runtime-main.js": "/ywc/static/js/runtime-main.5e772d9c.js",
     "runtime-main.js.map": "/ywc/static/js/runtime-main.5e772d9c.js.map",
     "static/css/2.3cbd3cae.chunk.css": "/ywc/static/css/2.3cbd3cae.chunk.css",
@@ -12,19 +12,19 @@
     "static/js/3.38cee30c.chunk.js.map": "/ywc/static/js/3.38cee30c.chunk.js.map",
     "index.html": "/ywc/index.html",
     "static/css/2.3cbd3cae.chunk.css.map": "/ywc/static/css/2.3cbd3cae.chunk.css.map",
-    "static/css/main.b1f7fd00.chunk.css.map": "/ywc/static/css/main.b1f7fd00.chunk.css.map",
+    "static/css/main.06460786.chunk.css.map": "/ywc/static/css/main.06460786.chunk.css.map",
     "static/js/2.4cfcfa73.chunk.js.LICENSE.txt": "/ywc/static/js/2.4cfcfa73.chunk.js.LICENSE.txt",
     "static/media/logo-KLK-2.9dbd6ec5.png": "/ywc/static/media/logo-KLK-2.9dbd6ec5.png",
     "static/media/App.css": "/ywc/static/media/result-bg.ac869927.png",
     "static/media/search.d6a8245f.svg": "/ywc/static/media/search.d6a8245f.svg",
     "static/media/thailand-baht-gray.02fc3775.svg": "/ywc/static/media/thailand-baht-gray.02fc3775.svg",
-    "static/media/thailand-baht.f5b4e2ea.svg": "/ywc/static/media/thailand-baht.f5b4e2ea.svg"
+    "static/media/thailand-baht.26f46992.svg": "/ywc/static/media/thailand-baht.26f46992.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e772d9c.js",
     "static/css/2.3cbd3cae.chunk.css",
     "static/js/2.4cfcfa73.chunk.js",
-    "static/css/main.b1f7fd00.chunk.css",
-    "static/js/main.2d946f29.chunk.js"
+    "static/css/main.06460786.chunk.css",
+    "static/js/main.49a89bbe.chunk.js"
   ]
 }
